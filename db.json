@@ -1,0 +1,36 @@
+{
+  "registration": [
+    {
+      "name": "adhila",
+      "email": "adhilafaisal7@gmail.com",
+      "password": "adhila",
+      "rpassword": "adhila",
+      "id": 1
+    },
+    {
+      "name": "nihala",
+      "email": "nihalafaisal7@gmail.com",
+      "password": "nihala",
+      "rpassword": "nihala",
+      "id": 2
+    }
+  ],
+  "add_student": [
+    {
+      "name": "adhila",
+      "DOB": "06/02/2003",
+      "classs": "9",
+      "address": "pallikalagth house",
+      "email": "adhilafaisal&2gmail.com",
+      "id": 1
+    },
+    {
+      "name": "nihala",
+      "DOB": "17/9/2003",
+      "classs": "10",
+      "address": "pathapiriyam",
+      "email": "nihu@gmail.com",
+      "id": 2
+    }
+  ]
+}
